@@ -1,0 +1,8 @@
+//
+// Created by Kuma on 2022/7/13.
+//
+
+#ifndef DESIGN_PATTERN_ADAPTER_H
+#define DESIGN_PATTERN_ADAPTER_H
+
+#endif //DESIGN_PATTERN_ADAPTER_H
